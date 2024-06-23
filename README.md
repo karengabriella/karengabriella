@@ -1,7 +1,7 @@
 
-## Desenvolvedora Júnior Full Stack
+## Oie!! Eu sou Karen Gabriella, só Gabe para os amigos 😊
 
-👯‍♀️ Por que me considero Júnior e Full Stack? 
+Me considero uma desenvolvedora Júnior/Mid Full Stack.
 
 Já trabalhei por 3 anos com desenvolvimento back-end no setor financeiro na área de Crédito Consignado, utilizei as linguagens PHP, JavaScript e tenho habilidades no Front-End (HTML, CSS). Contudo não me considero especialista em nenhuma delas, minha verdadeira dedicação e estudos são voltadas ao Python, Ada e Java, linguagens utilizadas no setor de automação, Simulação, Sistemas de controle e pesquisa ciêntifica, setores que são minhas verdadeiras paixões, um caminho longo, mas é com honra que afrimo: minha escolha.
 
