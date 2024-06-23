@@ -1,5 +1,5 @@
 
-## Oie!! Eu sou Karen Gabriella, só Gabe para os amigos 😊
+## Oie!! Me chamo Karen Gabriella e só Gabe para os amigos 😊
 
 Me considero uma desenvolvedora Júnior/Mid Full Stack.
 
