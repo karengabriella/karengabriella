@@ -3,7 +3,7 @@
 
 Me considero uma desenvolvedora Júnior/Mid Level - FullStack.
 
-Já trabalhei por 3 anos com desenvolvimento back-end no setor financeiro na área de Crédito Consignado, utilizei a linguagem PHP, tenho habilidades no Front-End com JavaScript, HTML e CSS. Contudo não me considero especialista em nenhuma delas, minha verdadeira dedicação e estudos são voltadas ao Python e ao Ada, linguagens utilizadas no setor de automação, Simulação, Sistemas de controle e pesquisa ciêntifica, setores que são minhas verdadeiras paixões, um caminho longo, mas em um milhão de anos ainda seria minha escolha.
+Já trabalhei por 3 anos com desenvolvimento back-end no setor financeiro na área de Crédito Consignado, utilizei a linguagem PHP, tenho habilidades no Front-End com JavaScript, HTML e CSS. Contudo não me considero especialista em nenhuma delas, minha verdadeira dedicação e estudos são voltadas ao Python e ao Ada, linguagens utilizadas no setor de automação, Simulação, Sistemas de controle e pesquisa ciêntifica, setores que são minhas verdadeiras paixões, um caminho longo, mas que em um milhão de anos ainda seria minha escolha.
 
 🧠 Atualmente meu maior foco em desenvolvimento é construir bases sólidas em Física, automação RPA (Robotic Process Automation), simulação e sistemas de controle. Os principais usos dessas tecnologias hoje são em atendimento ao cliente, setor financeiro e aeronautico, contudo eu vejo a união dessas ferramentas como um universo sem limites, sonho que uma utilização com propósito social, pode combater injustiças e aumrntar a qualidade na utilização do tempo humano.
 
