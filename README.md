@@ -20,7 +20,7 @@ Sonho em colaborar com algo positivo que faça a diferença.
 Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e voluntariado sustentável. Se você também, tenho certeza que seremos grandes parceiros um dia ❤️
 
 
-Developer
+# Developer
 
 <div style="display: inline_block">
   
@@ -36,8 +36,8 @@ Developer
               
 </div>
 
-Social
+# Social
 
 <div style="display: inline_block">
-  <img ling=center height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img ling=center height=40 width=50 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>        
