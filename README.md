@@ -19,9 +19,6 @@ Sonho em colaborar com algo positivo que faça a diferença.
 
 Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e voluntariado sustentável. Se você também, tenho certeza que seremos grandes parceiros um dia ❤️
 
-
-# 
-
  ## Technologies
 
 <div style="display: inline_block">
@@ -37,8 +34,6 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
   <img aling=center height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
               
 </div>
-
-# 
 
  ## Social 
 
