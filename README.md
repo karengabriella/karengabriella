@@ -34,7 +34,12 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
   
   <img aling=center height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
+  <img aling=center height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   
   <img aling=center height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  
+ 
+          
           
 
   
