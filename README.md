@@ -20,7 +20,7 @@ Sonho em colaborar com algo positivo que faça a diferença.
 Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e voluntariado sustentável. Se você também, tenho certeza que seremos grandes parceiros um dia ❤️
 
 
-# Developer
+# 
 
 <div style="display: inline_block">
   
@@ -36,7 +36,7 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
               
 </div>
 
-# Social
+# 
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/karen-gabriella-579843267/" target=_blank><img ling=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
