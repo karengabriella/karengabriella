@@ -23,7 +23,7 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
 
 <div style="display: inline_block">
 
-   <img aling=center height=35 width=45  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ 
   
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -36,6 +36,8 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />  
 
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+  <img aling=center height=35 width=45  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
    
  
   
