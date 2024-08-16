@@ -20,8 +20,8 @@ Sonho em colaborar com algo positivo que faça a diferença.
 Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e voluntariado sustentável. Se você também, tenho certeza que seremos grandes parceiros um dia ❤️
 
 
-<div>
+<div style="display: inline_block">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img aling=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 </div>
