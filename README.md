@@ -16,7 +16,7 @@ Se você é estudante de T.I ou áreas correlas e quer uma oportunidade, será b
 Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e voluntariado sustentável. Se você também, tenho certeza que seremos grandes parceiros um dia ❤️
 
 
-- English Version -
+# English Version  
 
 
 This is my little Temple of Codes, where I intend to document my journey as a FullStack developer.
