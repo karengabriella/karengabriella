@@ -27,8 +27,8 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
   
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-          
+  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+                   
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
