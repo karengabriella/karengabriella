@@ -21,6 +21,9 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
 
 # Developer 
 
+<i class="devicon-bash-plain"></i>
+          
+
 <div style="display: inline_block">
   
   <img aling=center height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
