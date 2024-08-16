@@ -3,9 +3,9 @@
 
 Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada como desenvolvedora Full Stack.
 
-Sou apaixonada por aeronáutica e filosofia.
+🫀 Eu sou: apaixonada por aeronáutica e filosofia :)
 
-🧠 Atualmente, meu maior foco está em construir bases sólidas em Física, automação RPA (Robotic Process Automation), simulação e sistemas de controle. 
+🧠 Estudando: Atualmente, meu maior foco está em construir bases sólidas em Física, automação RPA (Robotic Process Automation) com Machine Learning, simulação e sistemas de controle. 
 
 💡 Tenho uma microempresa de desenvolvimento. Chama-se AthenasCode. Através dela faço pequenos projetos e também atuo como designer e social mídia. O principal objetivo da Athenas é levar profissionalismo e competitividade para pequenos negócios ao passo que possibilita uma maior experiência para estudantes da área contando comigo.
 
