@@ -19,7 +19,7 @@ Sonho em colaborar com algo positivo que faça a diferença.
 
 Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e voluntariado sustentável. Se você também, tenho certeza que seremos grandes parceiros um dia ❤️
 
-# Technologies
+# Developer 👩‍💻
 
 <div style="display: inline_block">
   
