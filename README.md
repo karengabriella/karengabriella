@@ -19,12 +19,25 @@ Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada 
 
 <div style="text-align: center;">
   <a  href="" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="display: inline-block;">
   </a>
 
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="display: inline-block;">
   </a>
+
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="display: inline-block;">
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="display: inline-block;">
+  </a>
+
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="display: inline-block;">
+  </a>
+  
 </div>
 
 
