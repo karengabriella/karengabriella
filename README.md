@@ -14,8 +14,6 @@ Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada 
 <div style="display: inline_block">
   
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
                    
   <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
