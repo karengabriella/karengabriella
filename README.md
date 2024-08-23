@@ -5,9 +5,9 @@ Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada 
 
 🫀 Eu sou apaixonada por aeronáutica e filosofia :)
 
-🧠 Atualmente estou estudando para construir bases sólidas em Física, automação RPA (Robotic Process Automation) com Machine Learning, simulação e sistemas de controle. 
+💡 Atualmente estou estudando para construir bases sólidas em Física, RPA com Machine Learning, simulação e sistemas de controle. 
 
-💡 Estou sempre disponível para ideias de projeto e voluntariado sustentável que façam a diferença no mundo. Você também? Então tenho certeza que seremos grandes amigos um dia ❤️
+🧠 Estou sempre disponível para ideias de projeto e voluntariado sustentável que façam a diferença no mundo. Você também? Então tenho certeza que seremos grandes amigos um dia ❤️
 
  ## Technologies
 
