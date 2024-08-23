@@ -44,7 +44,7 @@ Obrigada por ler até aqui! Estou sempre disponível para ideias de projeto e vo
  ## Social 
 
 <div style="display: inline_block">
-  <a href="[https://www.youtube.com/@athenascode]" target=_blank><img ling=center src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)"></a>
+  <a href="[https://www.youtube.com/@athenascode]" target=_blank><img ling=center src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white]"></a>
 </div>        
 
 <div style="display: inline_block">
