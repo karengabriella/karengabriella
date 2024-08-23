@@ -1,11 +1,11 @@
 
-# Ohayo 😊
-
 <div style="display: inline_block">
   
   <img aling=center height=25 width=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
                        
 </div>
+
+# Ohayo 😊
 
 Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada como desenvolvedora Full Stack.
 
