@@ -18,7 +18,7 @@ Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada 
  ## Technologies
 
 <div style="text-align: center;">
-  <a  href="" target="_blank">
+  <a>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="display: inline-block;">
   </a>
 
