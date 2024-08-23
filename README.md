@@ -31,7 +31,7 @@ Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada 
   </a>
 
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="display: inline-block;">
   </a>
 
    <a href="" target="_blank">
