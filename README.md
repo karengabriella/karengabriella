@@ -1,6 +1,12 @@
 
 # Ohayo 😊
 
+<div style="display: inline_block">
+  
+  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+                       
+</div>
+
 Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada como desenvolvedora Full Stack.
 
 🫀 Eu sou apaixonada por aeronáutica e filosofia :)
@@ -11,21 +17,16 @@ Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada 
 
  ## Technologies
 
-<div style="display: inline_block">
-  
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div style="text-align: center;">
+  <a  href="" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="display: inline-block;">
+  </a>
 
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />  
-
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  
-  <img aling=center height=35 width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-  <img aling=center height=35 width=45  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-                       
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="display: inline-block;">
+  </a>
 </div>
+
 
  ## Social    
 
