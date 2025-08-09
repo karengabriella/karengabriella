@@ -6,6 +6,17 @@
 </div>
 
 # Ohayo 😊
+EN | PT/BR
+
+This is my little Temple of Code — a space where I plan to document my journey as a Full Stack developer.
+
+🫀 I’m deeply passionate about aeronautics and philosophy :)
+
+💡 Currently, I’m building a strong foundation in Physics, RPA with Machine Learning, simulation, and control systems.
+
+🧠 I’m always open to project ideas and sustainable volunteer work that can truly make a difference in the world. Are you too? Then I’m sure we’ll be great friends one day ❤️
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 Esse é meu pequeno Templo de Códigos, pretendo registrar aqui a minha jornada como desenvolvedora Full Stack.
 
