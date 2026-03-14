@@ -41,6 +41,8 @@ Currently I work with **Python automation and system integrations in corporate e
 
 ### AI & Machine Learning
 
+![RAG](https://img.shields.io/badge/RAG-AI%20Architecture-8A2BE2?style=for-the-badge)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" />
 
@@ -51,6 +53,7 @@ Currently I work with **Python automation and system integrations in corporate e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" />
 
 ### Tools & Low Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" />
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-RPA-orange?style=for-the-badge)
