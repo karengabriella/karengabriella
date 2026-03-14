@@ -1,124 +1,94 @@
-<div align="center">
-
-![Banner](./github-header-banner.png)
-
-# Karen Gabriella Rodrigues
-[![English Version](https://img.shields.io/badge/English%20Version-111111?style=for-the-badge\&logo=github\&logoColor=white)](./README.en.md)
-### Desenvolvedora de Software • Automação • Backend • Agentes de IA
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-
-</div>
-
-</div>
-
 ---
+[![English Version](https://img.shields.io/badge/English%20Version-111111?style=for-the-badge&logo=github&logoColor=white)](./README.en.md)
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ## Sobre mim
 
 Ohyoo! Sou uma desenvolvedora de software com foco em **automação, backend e inteligência artificial aplicada**.
 
-Minha atuação gira em torno da construção de sistemas que **reduzem fricção operacional**, conectando serviços, automatizando processos e criando fluxos inteligentes.
+<div align="left"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/> </div>
+
+Busco utilizar tecnologia e inteligência artificial como ferramentas para resolver problemas reais e gerar impacto positivo na sociedade ❤️
 
 Atualmente trabalho com **automação em Python e integração de sistemas em ambiente corporativo**, desenvolvendo soluções que orquestram serviços, automatizam tarefas e criam bases para aplicações com agentes de IA.
 
----
+### Interesses atuais
 
-# Tecnologias
+- agentes baseados em **LLMs**
+- automação inteligente
+- integrações com IA
+- backend para sistemas inteligentes
+- aplicações com impacto real
 
-<div align="center">
+</td>
 
-### Automação & Backend
+<td width="42%" valign="top">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+## Stack
 
-</div>
+### Principal
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" />
 
-<div align="center">
 
-### Automação
+### IA & Machine Learning
 
-<img src="https://img.shields.io/badge/Selenium-Web%20Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/RPA-Automation-orange?style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" />
 
-</div>
+### Secundária
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" />
 
-<div align="center">
+### Tools & Low Code
 
-### Inteligência Artificial
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-RPA-orange?style=for-the-badge)
+</td>
+</tr>
+</table>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
 
-</div>
+## Linguagens mais utilizadas
 
-<br>
-
-<div align="center">
-
-### Tecnologias em contexto
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengabriella&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 ---
 
-# Linguagens mais utilizadas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karengabriella&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-
-# Projetos e iniciativas
+## Projetos e iniciativas
 
 ### Redvus
-
 Sistema inteligente voltado para **localização de pessoas desaparecidas**, utilizando automação e inteligência artificial.
+
+### Áreas que venho explorando
+
+- arquiteturas de automação  
+- integração de agentes de IA  
+- sistemas de workflow inteligente  
+- ferramentas backend para automação  
 
 ---
 
-# Direção de aprendizado
+## Direção de aprendizado
 
 Atualmente aprofundando estudos em:
 
-* agentes baseados em LLM
-* arquiteturas de IA aplicada
-* automação inteligente
-* integração de sistemas com IA
+- agentes baseados em LLM  
+- arquiteturas de integração com IA  
+- prompt engineering aplicado  
+- sistemas de orquestração de IA  
 
 ---
 
-# Conecte-se comigo
-
-<div align="center">
+## Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/karen-gabriella-579843267/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Filosofia
-
-Tecnologia se torna verdadeiramente significativa quando ajuda a resolver **problemas reais**.
-
-</div>
